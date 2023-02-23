@@ -15,5 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahrialmd&show_icons=true&theme=synthwave)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahrialmd&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+<a href="https://github.com/fahrialmd">
+  <img height="225em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fahrialmd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="225em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fahrialmd&layout=compact&langs_count=8&theme=tokyonight"/>
+</a>
+</p>
